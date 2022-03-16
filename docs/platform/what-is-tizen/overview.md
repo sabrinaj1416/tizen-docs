@@ -61,7 +61,6 @@ Since 2012, Tizen has been expanding as smart gadgets have become generalized an
 
 As of Oct. 2021, there are about 200 million Tizen devices in the world. In addition, Samsung is holding the highest market share in the global TV market and its recent models are all based on the Tizen platform. It is expected for the Tizen platform to broaden its ecosystem with increasing market requirements and user demands.
 
-
 ## Productivity
 
 To facilitate developing Tizen applications, [Tizen Studio](/application/tizen-studio/) is provided as an integrated development environment (IDE). It helps you to develop, build, debug, profile, and emulate Tizen applications. Tizen Studio is equipped with useful developer tools, including native UI builder, emulator, and Dynamic Analyzer for profiling. In the integrated environment, you can enjoy comfortable and productive development of Tizen Native and Web applications.
